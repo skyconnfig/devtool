@@ -1,7 +1,7 @@
 import { writeFileSync } from 'fs'
 import { resolve } from 'path'
 
-const BASE = 'https://lxs.best'
+const BASE = 'https://tools.lxs.best'
 
 const staticPages = ['/', '/about', '/contact', '/privacy-policy', '/terms']
 

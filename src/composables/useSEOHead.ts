@@ -9,7 +9,7 @@ export interface SEOData {
 }
 
 export function useSEOHead(seo: SEOData) {
-  const siteUrl = 'https://lxs.best'
+  const siteUrl = 'https://tools.lxs.best'
   const path = seo.canonical || '/'
   const fullUrl = `${siteUrl}${path}`
 
