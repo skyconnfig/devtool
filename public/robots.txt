@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lxs.best/sitemap.xml
