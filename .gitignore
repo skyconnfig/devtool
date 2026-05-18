@@ -1,0 +1,12 @@
+node_modules
+dist
+*.tsbuildinfo
+.env
+.env.local
+.idea/
+.playwright-mcp/
+devtools-home.md
+devtools-homepage.png
+devtools-homepage2.png
+# devtools has its own git repo
+/devtools/
